@@ -29,5 +29,5 @@ Inspected the CSV files and sketched an Entity Relationship Diagram (ERD) of the
 - Generated various specific lists, such as employees hired in 1986, department managers, and employees in Sales and Development departments.
 - Counted the frequency of employee last names in descending order.
 
-Summary:
+## Summary:
 Successfully completed data modeling, engineering, and analysis tasks to meet project requirements and provided insights into the employee data.
